@@ -1,0 +1,180 @@
+body{ overflow:hidden; margin: 0; height: 100%; width: 100%; position: fixed;}
+#overAll {
+	 height: 100%; width: 100%; position: fixed; z-index: 999999;
+}
+#pantalla{	
+	height: 100%;
+	width: 100%;
+	background: #F2F2F2;
+	position: fixed;
+}
+#containerDiv {
+	height: 100%;
+	width: 100%;
+	background: #F2F2F2;
+}
+#wrapper{
+	position: absolute;
+	left: 300px;
+	background: #F2F2F2;
+}
+#mainCanvas{
+	position: absolute;
+	top: 0;
+}
+#layer{
+	position: absolute;
+	top: 0;
+	left: 7750px;
+}
+#marca{
+	top:50%;
+	left: 50%;
+	position: fixed;
+}
+.staticElement{
+	position: absolute;
+}
+#sloganMain{
+	top: 0;
+	left: 10px;
+	width: 344px;
+	height: 500px;
+}
+#fondofinalBack{
+	position: absolute;
+	left: 11120px;
+	width: 4291px!important;
+	height: 500px;
+}
+body{
+	background: #F2F2F2;
+}
+/*========Posiciones de elementos estaticos=========*/
+.english #text2{
+	top: 360px;
+	left: 490px;
+	width: 263px;
+	height: 81px;
+}
+.spanish #text2{
+	top: 349px;
+	left: 490px;
+	width: 345px;
+	height: 81px;
+}
+#computadora{
+	top: 80px;
+	left: 890px;
+	width: 310px;
+	height: 306px;
+}
+#smarthPhone{
+	top: 160px;
+	left: 1240px;
+	width: 134px;
+	height: 204px;
+}
+#es_text02{
+	top: 180px;
+	left: 2060px;
+	width: 314px;
+	height: 133px;
+}
+#back1{
+	top: 1px;
+	left: 1755px;
+	width: 2938px;
+	height: 500px;
+}
+#guy{
+	top: 130px;
+	left: 2310px;
+}
+
+#guy2{
+	top: 22px;
+	left: 8556px;
+}
+#guy3{
+	top: 115px;
+	left: 10353px;
+}
+#guy,
+#guy2,
+#guy3{
+	height: 657px;
+	width: 442px;
+}
+
+#text3{
+	top: 180px;
+	left: 2660px;
+	height: 198px;
+	width: 299px;
+}
+#guys2{
+	top: 170px;
+	left: 3000px;
+	width: 358px;
+	height: 233px;	
+}
+#text4{
+	top: 260px;
+	left: 3430px;	
+}
+#back2{
+	top: 0;
+	left: 3570px;
+	height: 500px;
+	width: 3571px;
+
+}	
+#es_text4{
+	top: 220px;
+	left: 3420px;
+}
+#fondoFinal{
+	top: -37px;
+	left: 3780px;
+	position: absolute;
+	height: 432px;
+	width:3953px;
+}
+.spanish #fondoFinal{
+	width: 3953px;
+}
+#back3,
+#back4,
+#back5{
+	top: 0;
+	left: 7700px;
+	position: absolute;
+	width: 6926px;
+	height: 500px;
+}
+#gato{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+#fondoOver {
+    left: 3780px;
+    position: absolute;
+    top: -37px;
+    z-index: 1;
+    width: 3953px;
+    height: 432px;
+}
+
+
+
+
+
+
+
+#parteBEsp{
+	position: absolute;
+	left: 7813px;
+	top: 0;
+}
